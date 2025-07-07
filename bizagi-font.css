@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'BizagiProcessIcons';
+  src: url('../fonts/bizagi-font.eot');
+  src: url('../fonts/bizagi-font.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/bizagi-font.woff') format('woff'),
+       url('../fonts/bizagi-font.ttf') format('truetype'),
+       url('../fonts/bizagi-font.svg#BizagiProcessIcons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
